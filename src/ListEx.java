@@ -11,6 +11,7 @@ public class ListEx {
         list.add("Adam");
         list.add("John");
         //new line
+        //second line
 
         System.out.println("ArrayList.........."+list);
 
