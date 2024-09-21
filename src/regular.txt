@@ -1,0 +1,91 @@
+foobar
+cihan foo3bar
+Mike Smith
+John Doe
+Bravo
+DE
+$21.44
+$32.67
+$21.444
+$214.456
+NY 12345
+NYNY 12345
+1NY 12345
+NY 123456
+ny 12345
+YKLM 12345
+YKL 12345 mehmet
+T 45678
+d 98765
+TX45678
+fooxbar
+fooaxbar
+fooaaaabar
+fooaxaxaxaxbar
+fooxxbar
+fooabar
+foombar
+foogabar
+fooxbars
+foocabar
+fooaabar
+fooaabar
+fooaxxxbar
+sfoobar
+foo bar
+foo  bar
+fooaxaxbar
+fooaxbar
+fooDallas23bar
+foo191Mayisbar
+fooDallas1*bar
+foo5%Dallasbar
+fooDall6!@#bar
+fooDall7##@bar
+fooDall7##@8bar
+mehmet foo bar mehmet
+foo*bar
+x ^ y
+x\y
+12.05.2000
+10.04.2005
+foo98acbar
+foom3bar
+foo3mbar
+foo8fbar
+foocbar
+foo#bar
+foo5bar
+foo10bar
+fooZZZbar
+foodbars
+fooaaabar zoobars
+kfooaaabar zoobar
+Mike Smith
+skycep
+laptop
+shoe
+shoes
+blueshoe
+blueshoes
+shoelace
+shoelaces
+mm.dd.yyyy
+mmmm.dd.yyyy
+mmmm.ddddd.yyyy
+mm.dd.yyyyy
+123
+3214
+3245
+4234252
+34455
+346677
+544
+6t7
+Dbcihan
+bbcihan
+zbcihan
+cihanfatih
+cihan&&$fatih
+cihan4fatih
+cihan5fa2tih
